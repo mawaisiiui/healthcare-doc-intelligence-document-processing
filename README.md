@@ -4,9 +4,9 @@ Build an end-to-end AI document intelligence application that converts claim
 PDFs into RAG answers, structured records, ML-ready CSV data, dynamic agent
 responses, FastAPI endpoints, and a ready-made React UI.
 
-## Course Architecture
+## Project Architecture
 
-![Overall Course Architecture](diagrams/architecture.png)
+![Overall Project Architecture](diagrams/architecture.png)
 
 ## End-to-End Flow
 
